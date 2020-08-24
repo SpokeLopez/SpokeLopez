@@ -1,18 +1,18 @@
 ### Hey 👋, soy Eduardo
 
-Hola, soy **Eduardo López**, soy **Frontend Developer** ( El mundo laboral tambien me ah hecho un poco de Backend 🌍 ) tambien soy **Ingeniero en sistemas computacionales** 🚀 vivo en México, actualmente trabajo para una consultora de desarrollo[@GrupoVass](https://twitter.com/GrupoVASS), y soy Software Enginner en la celula de ChileMexicano 🙍🏽‍♂️. Tambien tengo un blog de desarrollo 👨🏽‍💻 [@ComsoftMexico](https://www.comsoft-mexico.com/) y un pequeño canal de Youtube [@spokelopez](https://www.youtube.com/channel/UCzSSsHwz_fHf3Rdw0eQfBgg?view_as=subscriber) 👨🏽‍💼. 
+Hola, soy **Eduardo López**, soy **Frontend Developer** ( El mundo laboral tambien me ah hecho un poco de Backend 🌍 ) tambien soy **Ingeniero en sistemas computacionales** 🚀 vivo en México, actualmente trabajo para una consultora de desarrollo [@GrupoVass](https://twitter.com/GrupoVASS), y soy Software Enginner en la celula de ChileMexicano 🙍🏽‍♂️. Tambien tengo un blog de desarrollo 👨🏽‍💻 [@ComsoftMexico](https://www.comsoft-mexico.com/) y un pequeño canal de Youtube [@spokelopez](https://www.youtube.com/channel/UCzSSsHwz_fHf3Rdw0eQfBgg?view_as=subscriber) 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Talking about Personal Stuffs:**
+**Un poco mas sobre mi:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 👨🏽‍💻 Tengo 3 años desarrollando sistemas, páginas, e-commerce, etc. Todo siempre web;
+- 🌱 Actualmente estoy estudiando ionic, vuejs y herramientas de la nube; 
+- 🤔 Mis hobbies son los videojuegos, la lectura, mi familia y el constante aprendizaje;
+- 💼 Soy ingeniero en sistemas;
+- 💬 Hablenme sobre cualquier cosa, me gusta siempre aprender de los demas;
+- 📫 Siempre puedes contactarme al correo elopez@comsoft-mexico.com.
+- 📝 Puedes siempre consultar mi portafolio y CV en [CV&Portafolio](https://spokelopez.github.io/).
 
 
 **Languages and Tools:**  
