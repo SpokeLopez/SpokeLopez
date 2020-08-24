@@ -25,7 +25,6 @@ Hola, soy **Eduardo López**, soy **Frontend Developer** ( El mundo laboral tamb
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="kisspng-blue-square-angle-brand-terminal-5ab0efd7008eb2 2560073615215451750023](https://user-images.githubusercontent.com/10249293/90998689-56a31f80-e58a-11ea-8cd3-e022eb0ce22d.jpg"></code>
 
 ![spokelopez github status](https://github-readme-stats.vercel.app/api?username=spokelopez&show_icons=true&hide_border=true)
 
