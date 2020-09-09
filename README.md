@@ -11,8 +11,8 @@ Hola, soy **Eduardo López**, soy **Frontend Developer** ( El mundo laboral tamb
 - 🤔 Mis hobbies son los videojuegos, la lectura, mi familia y el constante aprendizaje;
 - 💼 Soy ingeniero en sistemas computacionales;
 - 💬 Hablenme sobre cualquier cosa, me gusta siempre aprender de los demás;
-- 📫 Siempre puedes contactarme a mi correo personal: elopez@comsoft-mexico.com.
-- 📝 Puedes consultar mi portafolio y CV en [CV&Portafolio](https://spokelopez.github.io/).
+- 📫 Siempre puedes contactarme a mi correo personal: elopez@comsoft-mexico.com;
+- 📝 Puedes consultar mi portafolio y CV en [CV&Portafolio](https://spokelopez.github.io/);
 
 
 **Lenguajes y herramientas de mi día a día:**  
