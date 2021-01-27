@@ -8,7 +8,7 @@ Hola, soy **Eduardo López**, soy **Frontend Developer** ( El mundo laboral tamb
 
 - 👨🏽‍💻 Tengo 3 años desarrollando sistemas, páginas, e-commerce, etc. Todo siempre desde la web;
 - 🌱 Actualmente estoy estudiando ionic, vuejs y herramientas de la nube e ingles; 
-- 🤔 Mis hobbies son los videojuegos, la lectura, mi familia y el constante aprendizaje;
+- 🤔 Mis hobbies son los videojuegos, la lectura, el futbol y el constante aprendizaje;
 - 💼 Soy ingeniero en sistemas computacionales;
 - 💬 Hablenme sobre cualquier cosa, me gusta siempre aprender de los demás;
 - 📫 Siempre puedes contactarme a mi correo personal: elopez@comsoft-mexico.com;
