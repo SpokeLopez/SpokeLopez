@@ -1,13 +1,13 @@
 ### Hey 👋, soy Eduardo
 
-Hola, soy **Eduardo López**, soy **Frontend Developer** ( El mundo laboral tambien eh hecho Backend en PHP y Javascript 🌍 ) tambien soy **Ingeniero en sistemas computacionales** 🚀 vivo en México, actualmente trabajo para una consultora de desarrollo de Chile [@GrupoVass](https://twitter.com/GrupoVASS), y soy Software Enginner de Magento en la celula nombrada ChileMexicano 🙍🏽‍♂️. Tambien tengo un blog de desarrollo 👨🏽‍💻 [@ComsoftMexico](https://www.comsoft-mexico.com/) y un pequeño canal de Youtube [@spokelopez](https://www.youtube.com/channel/UCzSSsHwz_fHf3Rdw0eQfBgg?view_as=subscriber) 👨🏽‍💼. 
+Hola, soy **Eduardo López**, soy **Frontend Developer** ( El mundo laboral tambien eh hecho Backend en PHP y Javascript 🌍 ) tambien soy **Ingeniero en sistemas computacionales** 🚀 vivo en México, actualmente trabajo para una consultora de desarrollo de Chile y soy Frontend de Magento en un equipo d egente muy capaz 🙍🏽‍♂️. Tambien tengo un blog de desarrollo 👨🏽‍💻 [@ComsoftMexico](https://www.comsoft-mexico.com/) donde realizo tutoriales y escrubo sobre cosas que aprendo, ademas de un pequeño canal de Youtube [@spokelopez](https://www.youtube.com/channel/UCzSSsHwz_fHf3Rdw0eQfBgg?view_as=subscriber) 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Un poco mas sobre mi:**
 
-- 👨🏽‍💻 Tengo 3 años desarrollando sistemas, páginas, e-commerce, etc. Todo siempre desde la web;
-- 🌱 Actualmente estoy estudiando ionic, vuejs y herramientas de la nube e ingles; 
+- 👨🏽‍💻 Tengo 3 años de experiencia desarrollando sistemas, sitios web, e-commerce, etc. Todo siempre desde la web;
+- 🌱 Actualmente estoy estudiando ionic, vuejs, herramientas de la nube e ingles;
 - 🤔 Mis hobbies son los videojuegos, la lectura, el futbol y el constante aprendizaje;
 - 💼 Soy ingeniero en sistemas computacionales;
 - 💬 Hablenme sobre cualquier cosa, me gusta siempre aprender de los demás;
