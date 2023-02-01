@@ -1,18 +1,18 @@
 ### Hey 👋, soy Eduardo
 
-Hola, soy **Eduardo López**, soy **Frontend Developer** ( El mundo laboral tambien eh hecho Backend en PHP y Javascript 🌍 ) tambien soy **Ingeniero en sistemas computacionales** 🚀 vivo en México, actualmente trabajo para una consultora de desarrollo de Chile y soy Frontend de Magento en un equipo de gente muy capaz 🙍🏽‍♂️. Tambien tengo un blog de desarrollo 👨🏽‍💻 [@ComsoftMexico](https://www.comsoft-mexico.com/) donde realizo tutoriales y escrubo sobre cosas que aprendo, ademas de un pequeño canal de Youtube [@spokelopez](https://www.youtube.com/channel/UCzSSsHwz_fHf3Rdw0eQfBgg?view_as=subscriber) 👨🏽‍💼. 
+Hola, soy **Eduardo López**, soy **Frontend Developer** ( En el mundo laboral tambien eh hecho Backend en PHP y Javascript 🌍 ) tambien soy **Ingeniero en sistemas computacionales** 🚀 vivo en México, actualmente trabajo para una consultora de desarrollo de Chile y soy Frontend Lead de Magento en un equipo de personas muy habilidosas 🙍🏽‍♂️. Tambien tengo un blog de desarrollo 👨🏽‍💻 [@ComsoftMexico](https://www.comsoft-mexico.com/) donde realizo tutoriales y escrubo sobre cosas que aprendo, ademas de un pequeño canal de Youtube [@spokelopez](https://www.youtube.com/channel/UCzSSsHwz_fHf3Rdw0eQfBgg?view_as=subscriber) 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Un poco mas sobre mi:**
 
-- 👨🏽‍💻 Tengo 3 años de experiencia desarrollando sistemas, sitios web, e-commerce, etc. Todo siempre desde la web;
-- 🌱 Actualmente estoy estudiando ionic, vuejs, herramientas de la nube e ingles;
+- 👨🏽‍💻 Tengo 3 años de experiencia desarrollando en Magento, sitios web, e-commerce, etc. Todo siempre desde la web;
+- 🌱 Actualmente estoy estudiando PHP, vuejs, herramientas para Devops e ingles;
 - 🤔 Mis hobbies son los videojuegos, la lectura, el futbol y el constante aprendizaje;
 - 💼 Soy ingeniero en sistemas computacionales;
 - 💬 Hablenme sobre cualquier cosa, me gusta siempre aprender de los demás;
 - 📫 Siempre puedes contactarme a mi correo personal: elopez@comsoft-mexico.com;
-- 📝 Puedes consultar mi portafolio y CV en [CV&Portafolio](https://spokelopez.github.io/);
+- 📝 Puedes consultar mi portafolio y CV en [CV&Portafolio](https://spokelopez.com/);
 
 
 **Lenguajes y herramientas de mi día a día:**  
