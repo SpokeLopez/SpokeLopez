@@ -1,6 +1,6 @@
 ### Hey 👋, soy Eduardo
 
-Hola, soy **Eduardo López**, soy **Frontend Developer** ( En el mundo laboral tambien eh hecho Backend en PHP y Javascript 🌍 ) tambien soy **Ingeniero en sistemas computacionales** 🚀 vivo en México, actualmente trabajo para una consultora de desarrollo de Chile y soy Frontend Lead de Magento en un equipo de personas muy habilidosas 🙍🏽‍♂️. Tambien tengo un blog de desarrollo 👨🏽‍💻 [@ComsoftMexico](https://www.comsoft-mexico.com/) donde realizo tutoriales y escrubo sobre cosas que aprendo, ademas de un pequeño canal de Youtube [@spokelopez](https://www.youtube.com/channel/UCzSSsHwz_fHf3Rdw0eQfBgg?view_as=subscriber) 👨🏽‍💼. 
+Hola, soy **Eduardo López**, soy **Frontend Developer** ( En el mundo laboral tambien eh hecho Backend en PHP y Javascript 🌍 ) tambien soy **Ingeniero en sistemas computacionales** 🚀 vivo en México, actualmente trabajo para una consultora de desarrollo de Chile y soy Frontend Lead de Magento en un equipo de personas muy habilidosas 🙍🏽‍♂️. Tambien tengo un blog de desarrollo 👨🏽‍💻 [@ComsoftMexico](https://www.comsoft-mexico.com/) donde realizo tutoriales y escribo sobre cosas que aprendo, ademas de un pequeño canal de Youtube [@spokelopez](https://www.youtube.com/channel/UCzSSsHwz_fHf3Rdw0eQfBgg?view_as=subscriber) 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
