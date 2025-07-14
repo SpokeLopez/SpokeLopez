@@ -6,7 +6,7 @@ Hola, soy **Eduardo López**, soy **Software Engineer** ( FullStack con PHP y Ja
 
 **Un poco mas sobre mi:**
 
-- 👨🏽‍💻 Tengo 5 años de experiencia en desarrollo con plataformas como Magento, sitios web, e-commerce, etc. Todo siempre desde la web;
+- 👨🏽‍💻 Tengo 8 años de experiencia en desarrollo con plataformas como Magento, sitios web, e-commerce, etc. Todo siempre desde la web;
 - 🌱 Actualmente estoy estudiando frameworks para PHP y javascript. Además de herramientas para Devops e ingles;
 - 🤔 Mis hobbies son los videojuegos, la lectura, el futbol y el constante aprendizaje;
 - 💼 Soy ingeniero en sistemas computacionales;
